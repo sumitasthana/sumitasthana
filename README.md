@@ -4,6 +4,11 @@ AI and machine learning engineer in Pittsburgh. Fifteen years of shipping
 production systems, most of it in regulated industries where a wrong answer
 has consequences.
 
+My main interest is continual learning and machine unlearning: how a model
+keeps learning new things without losing what it already knew, and how it can
+be made to forget something on purpose once that thing should no longer be in
+there.
+
 ### How I got here
 
 I started out learning how enterprise systems actually work, which mostly
@@ -22,9 +27,10 @@ touched it on the way, and what will break when something upstream changes.
 In a large organisation nobody actually knows this. It sits in hundreds of
 scripts, and the docs stopped being true years ago.
 
-By night: in-context learning theory, how memorization spreads across
-transformer layers, and model compression. I write about it, and I build small
-free things that teach AI concepts to people starting out.
+By night: continual learning and machine unlearning, plus in-context learning
+theory, how memorization spreads across transformer layers, and model
+compression. I write about it, and I build small free things that teach AI
+concepts to people starting out.
 
 One thing I keep insisting on: a proven answer and a model's best guess should
 never look the same to whoever reads the output.
